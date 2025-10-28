@@ -13,3 +13,6 @@ User → Application (Java) → Database (MySQL) → Application → Output to U
 
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/59ffbd2a-301b-4716-acc4-e6ab69976346" />
+
+
+<img width="1184" height="821" alt="image" src="https://github.com/user-attachments/assets/c327481d-de32-405a-ba00-88d866254781" />
